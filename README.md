@@ -1,24 +1,6 @@
-# app-sample
+# vue.js firebase Crud 
+プログラミングの基本におけるcrud処理を実装したシンプルな日記アプリになります。機能としては登録、ログイン処理、crad処理、投稿日付の表示などシンプルなものになりますが、このサービスを開発するにあたり、使用されたコードだけではなく、vue.js、javascriptなどのフレームワーク、言語、ライブラリにおける仕様をしっかりと理解しながら進めてきました。 根底の理解を深めることで、他の応用などを簡単に実装する力を得たと考えております。
 
-## Project setup
-```
-npm install
-```
+# DEMO
+https://user-images.githubusercontent.com/87408493/165439854-187f206b-5c3f-4dd7-8a44-5043fb62b630.mp4
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
